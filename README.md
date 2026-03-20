@@ -138,7 +138,9 @@ firmware/esp32_code/astra.ino
 
 ## 📄 Research Paper
 
-[View Full Paper](docs/research_paper.pdf)
+This project is backed by a research study focusing on IoT-based women safety systems with real-time tracking and emergency response.
+
+🔗 [Read Full Paper](https://zenodo.org/records/18864146)
 
 ---
 
