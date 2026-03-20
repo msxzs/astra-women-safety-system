@@ -119,8 +119,7 @@ This system is designed with:
 
 ## 🖼️ Prototype
 
-![ASTRA Prototype](docs/prototype.jpg)
-
+![Prototype](docs/ASTRA.jpeg)
 ---
 
 ## 🎥 Demo
