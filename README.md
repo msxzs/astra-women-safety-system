@@ -1,6 +1,7 @@
 # 🚨 ASTRA – Offline Women Safety IoT System
 
 > 🚨 One-click SOS system that sends real-time location and emergency alerts using IoT.
+
 > ⚡ Built to work when everything else fails — no internet, no delay, no dependency on smartphones.
 
 A real-time, offline-capable emergency safety device designed to ensure **fast, reliable, and instant alerts** using GPS and GSM technology.
