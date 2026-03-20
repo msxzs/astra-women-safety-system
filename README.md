@@ -181,12 +181,12 @@ This project was collaboratively developed by:
 ### 🔹 Mayank Saraswati
 
 * Embedded Systems & Hardware Integration
-* (Add GitHub / LinkedIn)
+* (www.linkedin.com/in/mayank-saraswati-111b80351)
 
 ### 🔹 Kashish Dhawan
 
 * Research & System Design
-* (Add GitHub / LinkedIn)
+* (www.linkedin.com/in/kashish-dhawan-91004623a/)
 
 ---
 
